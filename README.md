@@ -11,7 +11,6 @@
 
 - 🎓 I'm currently pursuing my **Bachelor's in Computer Science & Engineering (3rd Year)**  
 - 💻 Specialized in **MERN Stack (MongoDB, Express.js, React, Node.js)**
-- 🌱 Currently learning **Next.js**, **TypeScript**, and exploring **Cloud Platforms**
 - 🛠️ I love building full-stack applications and collaborating on open-source projects
 - 🧠 Always upskilling and staying updated with tech trends
 
