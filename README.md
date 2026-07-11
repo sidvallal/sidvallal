@@ -18,15 +18,27 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript, Python, C, C++
+<p align="center">
 
-**Frontend:** React, HTML, CSS, Tailwind CSS
+<img src="https://skillicons.dev/icons?i=js,python,c,cpp" />
 
-**Backend:** Node.js, Express.js
+<br><br>
 
-**Database:** MongoDB, MySQL
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-**Tools:** Git, GitHub, VS Code, Postman, Docker
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+
+</p>
 
 ---
 
